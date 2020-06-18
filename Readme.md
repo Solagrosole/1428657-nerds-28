@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Olga Roshchina](https://up.htmlacademy.ru/htmlcss/28/user/1428657).
-* Наставник: `Неизвестно`.
+* Наставник: [Дарья Черных](https://htmlacademy.ru/profile/id186126).
 
 ---
 
